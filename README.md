@@ -1,0 +1,2 @@
+# wga
+Whole genome sequencing
